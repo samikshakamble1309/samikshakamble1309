@@ -22,5 +22,11 @@ Passionate about bridging technology and business to create impactful digital pr
 **🌱 Currently Learning**
 Expanding my knowledge of Databricks, Google Cloud, and Product Management techniques to stay ahead of the curve.
 
+**🛠️ Current Experience**
+Operation Associate – Coursera (June 2024 - Present)
+🚀 Facilitating seamless operations by automating workflows, integrating Google Sheets with Databricks, and collaborating across departments.
+📈 Assigning digital badges to learners and supporting A/B testing for learner engagement.
+💡 Developing technical workflows with a focus on customer empathy and platform expertise.
+
 **🤝 Let’s Connect!**
 Find me on [LinkedIn](https://www.linkedin.com/in/samiksha-kamble/) or reach out through Email: samiksha.kamble@alumni.iitgn.ac.in. Always happy to collaborate and share ideas!
