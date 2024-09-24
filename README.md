@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Samiksha – Welcome to My GitHub!
 
 <!--
 **samikshakamble1309/samikshakamble1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**🎯 About Me**
+🌟 Tech Enthusiast | Product Management | Data Analytics
+Passionate about bridging technology and business to create impactful digital products. I have experience across e-learning, insurance, and consulting industries, leading cross-functional teams to deliver results.
+
+**🌱 Currently Learning**
+Expanding my knowledge of Databricks, Google Cloud, and Product Management techniques to stay ahead of the curve.
+
+**🤝 Let’s Connect!**
+Find me on [LinkedIn](https://www.linkedin.com/in/samiksha-kamble/) or reach out through Email: samiksha.kamble@alumni.iitgn.ac.in. Always happy to collaborate and share ideas!
