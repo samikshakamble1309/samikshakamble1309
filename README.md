@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**🎯 About Me**
+**🎯 About Me**<br>  
 🌟 Tech Enthusiast | Product Management | Data Analytics
 Passionate about bridging technology and business to create impactful digital products. I have experience across e-learning, insurance, and consulting industries, leading cross-functional teams to deliver results.
 
-**🌱 Currently Learning**
+**🌱 Currently Learning**<br>  
 Expanding my knowledge of Databricks, Google Cloud, and Product Management techniques to stay ahead of the curve.
 
-**🛠️ Current Experience**
+**🛠️ Current Experience**<br>   
 Operation Associate – Coursera (June 2024 - Present)
 🚀 Facilitating seamless operations by automating workflows, integrating Google Sheets with Databricks, and collaborating across departments.
 📈 Assigning digital badges to learners and supporting A/B testing for learner engagement.
 💡 Developing technical workflows with a focus on customer empathy and platform expertise.
 
-**🤝 Let’s Connect!**
+**🤝 Let’s Connect!**<br>  
 Find me on [LinkedIn](https://www.linkedin.com/in/samiksha-kamble/) or reach out through Email: samiksha.kamble@alumni.iitgn.ac.in. Always happy to collaborate and share ideas!
